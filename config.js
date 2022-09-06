@@ -4,7 +4,7 @@ const root = path.resolve(__dirname)
 const settings = {
   api_version: "49.0",
   repository : {
-    remote : "https://github.com/ttse-sfdc/sfdc-ea-demo-templates.git",
+    remote : "https://github.com/sfdc-ea-pmm/sfdc-ea-demo-templates.git",
     branches : {
       master : "master",
       beta : "beta"
